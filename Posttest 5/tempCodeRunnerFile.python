@@ -1,7 +1,0 @@
-tuple = (1, 2, 3, 6, 5, 7)
-
-print(len(tuple))
-print(tuple.index(3))
-print(tuple.count(2))
-print(tuple[0])
-print(tuple[1:5])
