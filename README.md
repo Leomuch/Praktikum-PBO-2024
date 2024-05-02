@@ -1,2 +1,2 @@
 # Praktikum-PBO-2024
-Akun github saya kena suspend jadi ini akun baru dan repo baru
+Note : Izin buat akun baru dan repo baru, akun saya sebelumnya kena banned, sudah dikonfirm juga ke aslab
